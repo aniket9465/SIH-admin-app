@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Save Water Admin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="base_url">http://10.121.13.157:8000</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
